@@ -1,0 +1,6 @@
+Flask==2.3.2
+tensorflow==2.15.0
+keras==2.15.0
+keras-cv==0.6.0
+matplotlib==3.5.1
+keras_core==0.1.7
